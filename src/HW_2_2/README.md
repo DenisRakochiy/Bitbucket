@@ -12,4 +12,6 @@
 - when deleted - decrease their value on the element being deleted
 It is not allowed to enter null, characters, and other values into the collection, except integers.
 
-Class IntegerCollection extends class ArrayList.
+### Class IntegerCollection extends class ArrayList and override #add and #remove methods.
+### Methods are inherited from the parent class.
+
