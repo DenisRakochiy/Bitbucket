@@ -25,5 +25,7 @@ public class IntegerCollectionTest {
         System.out.println(intColl.min());
         System.out.println(intColl.max());
         System.out.println(intColl.average());
+        System.out.println(intColl.get(1));
+        System.out.println(intColl.contains(5));
     }
 }
